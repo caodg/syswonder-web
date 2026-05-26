@@ -109,6 +109,7 @@ Robonix目标是为具身智能大脑提供跨越异构硬件的系统底座，�
 |姓名|github id|单位|
 |----|---------|----|
 |张照博|[@HustWolfzzb](https://github.com/HustWolfzzb) |北京大学(博士后)|
+|花一帆|[@hua980629](https://github.com/hua980629)|北京大学(博士后)|
 |韩喻泷|[@enkerewpo](https://github.com/enkerewpo)|北京大学(博士生)|
 |李国玮|[@kouweilee](https://github.com/kouweilee)|北京大学(硕士生)|
 |吴政|[@ken4647](https://github.com/ken4647)|北京大学(硕士生)|
