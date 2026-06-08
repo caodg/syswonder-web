@@ -55,6 +55,16 @@
 
 ## 硕士论文
 
+1. **基于 hvisor 的 SCMI 虚拟化资源管理框架设计与实现**, 陈林锟, 北京大学硕士论文, 2026
+
+1. **面向端侧异构操作系统的微服务架构设计与实现**, 朱若海, 北京大学硕士论文, 2026
+
+1. **基于具身智能操作系统的机械臂控制及应用**, 陈正宁, 北京大学硕士论文, 2026
+
+1. **基于视觉－语言模型的机器狗室内语义导航方法研究**, 熊思民, 北京大学硕士论文, 2026
+
+1. **基于 PMU 的场景敏感具身智能任务调度框架**, 吴政, 北京大学硕士论文, 2026, [<i class="fa-brands fa-github"></i> 系统源码](https://github.com/syswonder/pmu_Robniflex)
+
 1. **虚拟机监控器hvisor镜像定制工具的设计与实现**, 廖航, 北京大学硕士论文, 2025
 
 1. **一体操作系统RuxOS中FUSE文件系统支持机制的设计与实现**, 郑元昊, 北京大学硕士论文, 2025
@@ -71,31 +81,39 @@
 
 ## 本科毕设
 
+1. **RK3588 平台上基于 hvisor 的 Android 虚拟机支持机制设计与实现**, 卢安来, 北京邮电大学本科毕设, 2026
+
+1. **具身智能任务规划语言的设计与实现**, 赵龙淳, 北京航空航天大学本科毕设, 2026, [<i class="fa-brands fa-github"></i> 系统源码](https://github.com/syswonder/rtdl_ud_project)
+
+1. **hvisor 处理器共享调度机制设计与实现**, 刘闯鸣, 北京大学本科毕设, 2026
+
+1. **面向 ROS2 的高性能数据传输机制设计与实现**, 王善上, 北京大学本科毕设, 2026
+
 1. **面向异构体系结构MPSoC的虚拟机监控器hvisor移植与优化**, 任航麒, 北京航空航天大学本科毕设, 2025
 
-2. **Formal Verification of VM Memory Isolation in Type-I Hypervisor**, 刘竞暄, 清华大学本科毕设, 2025
+1. **Formal Verification of VM Memory Isolation in Type-I Hypervisor**, 刘竞暄, 清华大学本科毕设, 2025
 
-3. **轻量裸机型虚拟机监控器Hvisor的x86架构移植**, 刘天弘, 北京大学本科毕设, 2025
+1. **轻量裸机型虚拟机监控器Hvisor的x86架构移植**, 刘天弘, 北京大学本科毕设, 2025
 
-4. **基于Type-1虚拟机监控器的PCIe资源虚拟化机制设计与实现**, 徐仲锴, 中国矿业大学（北京）本科毕设, 2025
+1. **基于Type-1虚拟机监控器的PCIe资源虚拟化机制设计与实现**, 徐仲锴, 中国矿业大学（北京）本科毕设, 2025
 
-5. **面向龙芯LoongArch指令集架构的轻量化Hypervisor设计与实现**, 韩喻泷,西北工业大学本科毕设, 2024
+1. **面向龙芯LoongArch指令集架构的轻量化Hypervisor设计与实现**, 韩喻泷,西北工业大学本科毕设, 2024
 
-6. **单内核操作系统的并发优化方法研究**, 周智, 清华大学本科毕设, 2024
+1. **单内核操作系统的并发优化方法研究**, 周智, 清华大学本科毕设, 2024
 
-7. **一种基于Unikernel的WASM应用部署方案设计与实现**, 徐金阳, 北京理工大学本科毕设, 2024, [<i class="fa-brands fa-github"></i> 系统源码](https://github.com/syswonder/rux-wamr)
+1. **一种基于Unikernel的WASM应用部署方案设计与实现**, 徐金阳, 北京理工大学本科毕设, 2024, [<i class="fa-brands fa-github"></i> 系统源码](https://github.com/syswonder/rux-wamr)
 
-8. **RISC-V虚拟化系统中IOMMU功能的设计与实现**, 刘景宇, 华中科技大学本科毕设, 2024
+1. **RISC-V虚拟化系统中IOMMU功能的设计与实现**, 刘景宇, 华中科技大学本科毕设, 2024
 
-9. **面向RISC-V的中断控制器实现**, 李韶航, 武汉大学本科毕设, 2024
+1. **面向RISC-V的中断控制器实现**, 李韶航, 武汉大学本科毕设, 2024
 
-10. **一种虚拟机监控器中VirtIO后端机制设计与实现**, 李国玮, 北京航空航天大学本科毕设, 2024
+1. **一种虚拟机监控器中VirtIO后端机制设计与实现**, 李国玮, 北京航空航天大学本科毕设, 2024
 
-11. **在一体操作系统RuxOS中移植与优化Nginx**, 刘昊文, 北京大学本科毕设, 2024, [<i class="fa-brands fa-github"></i> 系统源码](https://github.com/syswonder/rux-nginx)
+1. **在一体操作系统RuxOS中移植与优化Nginx**, 刘昊文, 北京大学本科毕设, 2024, [<i class="fa-brands fa-github"></i> 系统源码](https://github.com/syswonder/rux-nginx)
 
-12. **基于ARMv8的虚拟机监控器的设计与实现**, 丁韶峰, 清华大学本科毕设, 2023, [<i class="fa-brands fa-github"></i> 原型源码](https://github.com/syswonder/sysHyper-t1)
+1. **基于ARMv8的虚拟机监控器的设计与实现**, 丁韶峰, 清华大学本科毕设, 2023, [<i class="fa-brands fa-github"></i> 原型源码](https://github.com/syswonder/sysHyper-t1)
 
-13. **一种Rust语言实现的Type-1型轻量级嵌入式Hypervisor**, 陈林锟, 哈尔滨工业大学（深圳）本科毕设, 2023, [<i class="fa-brands fa-github"></i> 原型源码](https://github.com/syswonder/rustbao)
+1. **一种Rust语言实现的Type-1型轻量级嵌入式Hypervisor**, 陈林锟, 哈尔滨工业大学（深圳）本科毕设, 2023, [<i class="fa-brands fa-github"></i> 原型源码](https://github.com/syswonder/rustbao)
 
 ## 技术博客
 
